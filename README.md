@@ -1,2 +1,2 @@
 # Progate
-untuk tugas dari progate
+ini adalah latihan saya bersama progate, selamat mencoba!
